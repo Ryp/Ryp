@@ -1,5 +1,3 @@
-![image](https://github.com/Ryp/Ryp/assets/1625198/abd65cc8-e0fb-489b-b052-2f177a0e73a9)
-
 Hi there!
 
 I specialize in graphics programming and GPU performance. My work shipped in several AAA games to millions of players across the globe - here is where you can find my open-source contributions.
