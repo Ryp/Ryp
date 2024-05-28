@@ -15,6 +15,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/thibault-schueller-771ab442/) 
 * ...and many more!
 
 ### Recent side projects
+* [gb-emu-zig](https://github.com/Ryp/gb-emu-zig) - Gameboy emulator written in zig
 * [sudoku-zig](https://github.com/Ryp/sudoku-zig) - Fully playable sudoku game written in zig
 * [chip8-emu-rs](https://github.com/Ryp/chip8-emu-rs) - CHIP8 emulator written in rust
 * [minesweeper-zig](https://github.com/Ryp/minesweeper-zig) - Fully playable minesweeper game
