@@ -2,7 +2,7 @@ Hi there!
 
 I specialize in graphics programming and GPU performance. My work shipped in several AAA games to millions of players across the globe - here is where you can find my open-source contributions.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/thibault-schueller-771ab442/) for any job inquiry!
+<!-- Find me on [LinkedIn](https://www.linkedin.com/in/thibault-schueller-771ab442/) for any job inquiry! -->
 
 ### Main project
 
