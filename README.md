@@ -4,7 +4,7 @@ I specialize in graphics programming and GPU performance. My work shipped in sev
 
 <!-- Find me on [LinkedIn](https://www.linkedin.com/in/thibault-schueller-771ab442/) for any job inquiry! -->
 
-### Main project
+### Main project (ON HOLD)
 
 [reaper](https://github.com/Ryp/reaper) is the small engine I'm crafting as the basis for codename **Neptune** - a game I'm working on. It features:
 * Windows and Linux support
