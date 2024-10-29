@@ -15,6 +15,7 @@ I specialize in graphics programming and GPU performance. My work shipped in sev
 * ...and many more!
 
 ### Recent side projects
+* [psx-emu-zig](https://github.com/Ryp/psx-emu-zig) - PlayStation 1 emulator written in zig
 * [gb-emu-zig](https://github.com/Ryp/gb-emu-zig) - Gameboy emulator written in zig
 * [sudoku-zig](https://github.com/Ryp/sudoku-zig) - Fully playable sudoku game written in zig
 * [chip8-emu-rs](https://github.com/Ryp/chip8-emu-rs) - CHIP8 emulator written in rust
